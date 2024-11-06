@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matthew</h1>
-<h3 align="center">A passionate Software Engineer & Web Developer from Topeka Kansas.</h3>
+<h3 align="center">A passionate Software Engineer from Topeka Kansas.</h3>
 
 <p align="left">
 </p>
