@@ -1,4 +1,4 @@
-<p align="center">Hello World I'm a Computer Science student I'm interested in Game Development and Software Engineering.</p>
+<p align="center"> Computer Science Student who is interested in Cybersecurity..</p>
 
 ###
 
